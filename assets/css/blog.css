@@ -1,0 +1,40 @@
+.body_admin {
+    background-color: #822;
+}
+
+#corpo_admin {
+    width: 80%;
+    margin: 1em auto;
+	padding: 20px;
+    background-color: #FFF;
+}
+
+#rodape {
+    text-align: center;
+}
+
+form input[type=text],
+form textarea,
+form input[type=password] {
+    display: block;
+    width: 50%;
+    margin-bottom: 2em;
+}
+
+p.form_erro {
+    margin: 0;
+    padding: 0;
+    color: #A33;
+}
+
+.mensagens {
+    border: 3px double #005702;
+    padding: 1em;
+    margin: 1em;
+}
+
+.comentario {
+    border: 1px solid #888;
+    padding: 1em;
+    margin: 1em;
+}
