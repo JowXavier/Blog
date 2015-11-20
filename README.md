@@ -1,2 +1,2 @@
 # Blog
-Blog simples com codeigiter, projeto de inicio dos estudos
+Blog simples com codeigniter, projeto de inicio dos estudos
